@@ -14,17 +14,17 @@ public class Loops {
         // body
         }
          */
-//        for( int i=1; i < 2; i++){
-//            System.out.println("Hey Anagha Good Job!"+ i);
-//        }
-//
-//        // Q: Print num from 1 to n
-//        Scanner input = new Scanner(System.in);
-//        int n = input.nextInt();
-//
-//        for (int num = 0; num <= n; num++) {
-//            System.out.println(num+ " hey");
-//        }
+       for( int i=1; i < 5; i++){
+           System.out.println("Hey Anagha Good Job!"+ i);
+       }
+
+       // Q: Print num from 1 to n
+       Scanner input = new Scanner(System.in);
+       int n = input.nextInt();
+
+       for (int num = 0; num <= n; num++) {
+           System.out.println(num+ " hey");
+       }
 
         // =========== While loop ============
         // Use while loop when range is not defined
@@ -39,11 +39,12 @@ public class Loops {
 
         }
          */
-//        int count = 1;
-//        while(count <= 5){
-//            System.out.println(count);
-//            count++;
-//        }
+        
+       int count = 1;
+       while(count <= 5){
+           System.out.println(count);
+           count++;
+       }
 
 
         // ========= do while loop =============
